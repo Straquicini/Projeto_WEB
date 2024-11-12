@@ -1,0 +1,25 @@
+body {
+  /**width: 100%;**/
+  margin: 0;
+  padding: 0;
+}
+/** aplicar um estilo a todos os elementos no html**/
+* {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+}
+
+#areaConteudo {
+  width: 80%;
+}
+
+.estiloTabela {
+  width: 100%;
+  border: 0px solid #f00;
+}
+.largura1_3 {
+  width: 30%;
+}
+.espacamento_3 {
+  width: 5%;
+}
